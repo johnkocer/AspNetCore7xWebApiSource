@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DatabaseTest", "DatabaseTest\DatabaseTest.csproj", "{8A2E938E-D11A-48EB-B6AC-7F477F297DFA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Todo.Mvc.Ui", "Todo.Mvc.Ui\Todo.Mvc.Ui.csproj", "{A6A02911-A3B3-45CF-AF1B-E7DB3A17AE03}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8A2E938E-D11A-48EB-B6AC-7F477F297DFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A2E938E-D11A-48EB-B6AC-7F477F297DFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A2E938E-D11A-48EB-B6AC-7F477F297DFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A2E938E-D11A-48EB-B6AC-7F477F297DFA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6A02911-A3B3-45CF-AF1B-E7DB3A17AE03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6A02911-A3B3-45CF-AF1B-E7DB3A17AE03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6A02911-A3B3-45CF-AF1B-E7DB3A17AE03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6A02911-A3B3-45CF-AF1B-E7DB3A17AE03}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5F21F090-BA2F-4744-80E0-3F0F1F77E21D}
+	EndGlobalSection
+EndGlobal
